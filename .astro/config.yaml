@@ -1,0 +1,8 @@
+project:
+    name: de-project-4
+
+webserver:
+    port: 8086
+    
+postgres:
+    port: 5436
