@@ -16,4 +16,4 @@ This repository contains the yugioh_pipeline dag and supporting configurations t
 
 ## LakeDB Schema
 
-![Synapse](images/yugioh_lakedb.png "LakeDB Schema")
+![Synapse](images/lakeDB_schema.PNG "LakeDB Schema")
